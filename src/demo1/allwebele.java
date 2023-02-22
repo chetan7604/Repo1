@@ -10,7 +10,7 @@ public class allwebele
 
 	public static void main(String[] args) throws InterruptedException
 	{
-		System.setProperty("webdriver.chrome.driver","G:\\java programme for testing\\New folder\\chromedriver.exe" );
+		System.setProperty("webdriver.chrome.driver","D:\\Selenium\\chromedriver.exe" );
 
 	     WebDriver driver =new ChromeDriver();
 	     
